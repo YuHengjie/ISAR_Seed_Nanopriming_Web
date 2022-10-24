@@ -184,7 +184,7 @@ with placeholder2.container():
             if height[i] >= 0:
                 colors[i] = '#FF0050'
 
-        fig, ax= plt.subplots(figsize = (6,2.3))
+        fig, ax= plt.subplots(figsize = (6,2.8))
         plt.style.use('seaborn-ticks')
         plt.margins(0.05)
         plt.grid(linestyle=(0, (1, 6.5)),color='#B0B0B0',zorder=0)
