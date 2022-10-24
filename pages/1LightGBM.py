@@ -19,7 +19,7 @@ plt.style.use('default')
 
 st.set_page_config(
     page_title = 'LightGBM',
-    page_icon = '🦕',
+    page_icon = '🔬',
     layout = 'wide'
 )
 
