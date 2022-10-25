@@ -41,7 +41,7 @@ st.markdown(
     ### Source code of this web app is available ✈️
     - [Source code] developed by 🐘 Hengjie Yu
 
-    ### Citation 🤝🏽
+    ### Citation 👏🏽
     - If you found this web app useful for your blog post, research article or product, I would be grateful if you would cite this article [citation]
 
 """
