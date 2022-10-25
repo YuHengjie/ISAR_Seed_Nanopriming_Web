@@ -39,9 +39,9 @@ st.markdown(
     - Predicting and investigating [cytotoxicity of nanoparticles by translucent machine learning](https://www.sciencedirect.com/science/article/pii/S0045653521006330?via%3Dihub)
     
     ### Source code of this web app is available ✈️
-    - [Source code](https://github.com/YuHengjie/ISAR_Seed_Nanopriming) developed by 🐘 Hengjie Yu
+    - [Source code] developed by 🐘 Hengjie Yu
 
-    ### Citation 👏🏽
+    ### Citation 🤝🏽
     - If you found this web app useful for your blog post, research article or product, I would be grateful if you would cite this article [citation]
 
 """
