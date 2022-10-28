@@ -154,7 +154,7 @@ explainer = shap.TreeExplainer(model=model, data=None, model_output='raw', featu
 shap_values = explainer.shap_values(model_input)[1][0]
 
 # %%
-st.title('Local interpretation of the predicted instance in real time')
+st.title('Prediction-level interpretation in real time')
 placeholder2 = st.empty()
 with placeholder2.container():
     f1,f2 = st.columns(2)
