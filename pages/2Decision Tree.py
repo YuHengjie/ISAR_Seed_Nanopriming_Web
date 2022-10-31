@@ -212,5 +212,5 @@ with placeholder2.container():
                 plt.text(height[i]/2,i-0.1,"%.2f" %height[i],ha = 'center',color='w',)
         st.set_option('deprecation.showPyplotGlobalUse', False)
         st.pyplot()
-st.write('The custome instances may be valid since they ignore feature distribution and feature correlation.')
+st.write('The custome instances may be invalid since they ignore feature distribution and feature correlation.')
 st.write('SHAP is used for local interpretation in the published article. LIME is employed to compare with SHAP only in this web app.')
