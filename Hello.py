@@ -20,7 +20,7 @@ st.write("# Welcome to Interpretable Structure-Activity Relationship (ISAR) for 
 
 st.markdown(
     """
-    This is online local interpretation web app for this article [citation] 🌱
+    This is online local interpretation web app for this article [Interpretable machine learning-accelerated seed treatment using nanomaterials for environmental stress alleviation](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr02322b) 🌱
 
     **👈 Select a model for interpretation from the sidebar** to see local interpretation based on different models
 
@@ -43,7 +43,7 @@ st.markdown(
     - [Source code](https://github.com/YuHengjie/ISAR_Seed_Nanopriming_Web) developed by 🐘 Hengjie Yu
 
     ### Citation 👏🏽
-    - If you found this web app useful for your blog post, research article or product, I would be grateful if you would cite this article [Nanoscale 2023, DOI: 10.1039/d3nr02322b](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr02322b)
+    - If you found this web app useful for your blog post, research article or product, I would be grateful if you would cite this article [Nanoscale, 2023,15, 13437-13449](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr02322b)
 
 """
 )
