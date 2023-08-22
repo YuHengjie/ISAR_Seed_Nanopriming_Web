@@ -1,5 +1,4 @@
-numpy==1.21.5
-numba==0.55.1
+pip==21.2.2
 pandas==1.4.3
 lightgbm==3.2.1
 shap==0.39.0
@@ -9,3 +8,6 @@ scikit-learn==1.1.2
 matplotlib==3.4.2
 openpyxl==3.0.7
 streamlit==1.13.0
+numpy==1.21.5
+numba==0.55.1
+altair==4.2.0
