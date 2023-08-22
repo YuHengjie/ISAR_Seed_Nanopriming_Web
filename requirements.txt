@@ -1,3 +1,4 @@
+pip==21.2.2
 pandas==1.4.3
 lightgbm==3.2.1
 shap==0.39.0
